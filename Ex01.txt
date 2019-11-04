@@ -1,2 +1,6 @@
 Ex01: tao ds sv
-Ex01: xoa sinh vien cos id=29
+Ex01: xoa sinh vien co Ma SV =29
+
+
+
+
